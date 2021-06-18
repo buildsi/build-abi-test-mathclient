@@ -6,7 +6,7 @@
 
 namespace MathLibrary
 {
-    double Arithmetic::Add(double a, double b)
+    int Arithmetic::Add(int a, int b)
     {
         return a + b;
     }
