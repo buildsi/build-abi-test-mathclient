@@ -7,7 +7,7 @@ namespace MathLibrary
     {
     public:
         // Returns a + b
-        static double Add(double a, double b);
+        static int Add(int a, int b);
 
         // Returns a - b
         static double Subtract(double a, double b);
